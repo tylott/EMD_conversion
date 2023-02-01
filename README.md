@@ -1,7 +1,7 @@
 # EMD_conversion
 A set of scripts to convert .emd files into image files.
 
-This script was developed in the following environment:
+<b>This script was developed in the following environment:</b>
 
 Python 3.9.7
 
