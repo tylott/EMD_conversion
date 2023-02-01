@@ -1,5 +1,5 @@
 # EMD_conversion
-A set of scripts to convert .emd files to image files.
+A set of scripts to convert .emd files into image files.
 
 This script was developed in the following environment:
 
