@@ -6,6 +6,7 @@ A set of scripts to convert .emd files into image files.
 Python 3.9.7
 
 hyperspy 1.6.5
+
 (Please see the Hyperspy Installation Documentation: https://hyperspy.org/hyperspy-doc/current/user_guide/install.html,
 To install HyperSpy run the following from the Anaconda Prompt on Windows or from a Terminal on Linux and Mac.
 $ conda install hyperspy -c conda-forge)
